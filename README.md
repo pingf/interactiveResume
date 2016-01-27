@@ -1,6 +1,6 @@
 # Interactive Resume with HTML5
 
-> [My Resume](jndesigns.io:9696) (no recruiters please)
+> [My Resume](resume.jndesigns.io) (no recruiters please)
 
 This project is:
 * Inspired by R. Leonardi's infamous (jQuery based)  [Interactive Resume](rleonardi.com/interactive-resume/).
